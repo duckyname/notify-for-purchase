@@ -1,4 +1,4 @@
-<h1>MAIN FAIL WILL BE UPLOAD AFTER PLUGIN GET RELEASED IN WORDPRESS LIBRARY!</h1>
+<h1>MAIN FILE WILL BE UPLOAD AFTER PLUGIN GET RELEASED IN WORDPRESS LIBRARY!</h1>
 
 <img src="https://raw.githubusercontent.com/duckyname/notify-for-purchase/refs/heads/main/assets/images/header-desc.webp">
 === Notify For Purchase ===<br>
