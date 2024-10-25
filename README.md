@@ -54,8 +54,11 @@ To assist users in setting up the plugin, a tutorial video hosted on YouTube is 
 2. Invite @notify_by_duck_bot to your chat.<br>
 3. Go to the Settings page to configure your Telegram Chat ID. When you click save, you should receive a message in the chat from our bot confirming it's online.<br>
 (You can watch a video on how to check your chat ID)<br>
-Active Bot Screenshot<br>
-4. Test the setup by making a test purchase.<br><br>
+<img src="https://raw.githubusercontent.com/duckyname/notify-for-purchase/refs/heads/main/assets/images/Screenshot-active.png"><br>
+4. Test the setup by making a test purchase.<br>
+<img src="https://raw.githubusercontent.com/duckyname/notify-for-purchase/refs/heads/main/assets/images/screenshot-purchase.png">
+<br><br>
+
 
 == Changelog ==<br>
 = 1.1 =<br>
