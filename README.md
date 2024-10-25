@@ -64,3 +64,10 @@ To assist users in setting up the plugin, a tutorial video hosted on YouTube is 
 = 1.1 =<br>
 *Release Date - 24 October 2024*<br>
 Telegram Notification Activated.<br>
+
+<br><br>
+== Images of Plugin == <br><br>
+Settings Page<br>
+<img src="https://raw.githubusercontent.com/duckyname/notify-for-purchase/refs/heads/main/assets/images/screenshot-settings.png"><br><br>
+If you find plugin helpful for your store you can use donate tab to donate whatever amount you choose :) Thank you for using Notify For Purchase<br>
+<img src="https://raw.githubusercontent.com/duckyname/notify-for-purchase/refs/heads/main/assets/images/screenshot-donate.png">
