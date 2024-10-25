@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/duckyname/notify-for-purchase/refs/heads/main/assets/images/header-desc.webp">
 === Notify For Purchase ===
 Contributors: WooCommerce
 Requires at least: 5.8
