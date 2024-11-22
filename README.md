@@ -1,6 +1,6 @@
 <h1>MAIN FILE WILL BE UPLOAD AFTER PLUGIN GET RELEASED IN WORDPRESS LIBRARY!</h1>
 
-<img src="https://raw.githubusercontent.com/duckyname/notify-for-purchase/refs/heads/main/assets/images/header-desc.webp">
+<img src="[https://raw.githubusercontent.com/duckyname/notify-for-purchase/refs/heads/main/assets/images/header-desc.webp](https://raw.githubusercontent.com/duckyname/notify-for-purchase/refs/heads/main/assets/images/banner-772x250.png)">
 === Notify For Purchase ===<br>
 Contributors: WooCommerce<br>
 Requires at least: 5.8<br>
